@@ -1,0 +1,22 @@
+HEADER
+GameDiscovery | Home | Games | Free Games | About
+
+SEARCH
+[ Search for a game...              ] [Search]
+
+POPULAR GAMES
+[ Game 1 ] [ Game 2 ] [ Game 3 ]
+
+           View More →
+
+FREE GAMES
+[ Game 1 ] [ Game 2 ] [ Game 3 ]
+
+           View More →
+
+HIGHLY RATED
+[ Game 1 ] [ Game 2 ] [ Game 3 ]
+
+           View More →
+
+FOOTER
